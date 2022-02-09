@@ -1,0 +1,28 @@
+A
+800
+OBJ
+
+# This is a magic flood light (to place over wind socks)
+# It consists of a spill only - no billboard - 10m above the ground, pointing down.
+
+TEXTURE	
+POINT_COUNTS	0 0 0 0
+
+
+# LIGHT_PARAM spot_params_sp    X Y Z    R G B    Bright    Length    Dx Dy Dz    Width
+#
+# (spot_params_sp is just a SPILL_HW_DIR)
+#
+# X Y Z      The location of the spill source.
+# R G B      This is the color tint that is applied to the light spill (0 0 0 to 1 1 1)
+# Bright     This is a master dimmer (0 to 1).
+# Length     Length of the light cone in meters.
+# Dx Dy Dz   Direction vector.
+# Width      Cosine of the half angle of the cone.
+#
+# DataRef    The name of the dataref to use to modulate the light or “none” if none.
+#            The dataref should be a float array dataref that optionally modifies the
+#            9 floats (except for X Y Z) that are passed in.
+
+#                          X Y  Z   R   G     B       Bright  Length    Dx Dy Dz    Width
+LIGHT_PARAM spot_params_sp 0 10 0   0.95	 0.988	1.0   1.0     26        0  -1 0     0.2

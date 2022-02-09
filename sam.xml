@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<scenery name="YBSU" locked="false">
+  <datarefs />
+  <objects />
+  <jetwayDescriptions />
+  <jetways />
+  <docks>
+    <dock id="10" latitude="-26.606682500415598" longitude="153.08896394098105" elevation="-0.00097520090639591217" heading="104.1546630859375" fixed="false" dockLatitude="-26.606756948449391" dockLongitude="153.08930090142684" dockHeading="283.802734375" />
+    <dock id="11" latitude="-26.606407372619277" longitude="153.08883802270842" elevation="-0.0014946023002266884" heading="104.15460968017578" fixed="false" dockLatitude="-26.606467110966456" dockLongitude="153.08910139853808" dockHeading="283.90313720703125" />
+    <dock id="12" latitude="-26.60625763348267" longitude="153.08887950410144" elevation="-0.001651054248213768" heading="104.15463256835938" fixed="false" dockLatitude="-26.606312595360958" dockLongitude="153.08912116206398" dockHeading="283.60208129882813" />
+    <dock id="13" latitude="-26.605876150342343" longitude="153.08898823350933" elevation="-0.0018425667658448219" heading="104.15467834472656" fixed="false" dockLatitude="-26.605930559501736" dockLongitude="153.08923008490493" dockHeading="284.40386962890625" />
+    <dock id="14" latitude="-26.605495152558674" longitude="153.08909221380128" elevation="-0.0017113685607910156" heading="104.15473175048828" fixed="false" dockLatitude="-26.605551483968323" dockLongitude="153.08933206416492" dockHeading="284.501953125" />
+    <dock id="15" latitude="-26.605323504579335" longitude="153.08913941147566" elevation="-0.0015385076403617859" heading="69.920829772949219" fixed="false" dockLatitude="-26.605263596806623" dockLongitude="153.0893683628851" dockHeading="252.60325622558594" />
+    <dock id="16" latitude="-26.60492866344147" longitude="153.08887568213035" elevation="-0.0014384035021066666" heading="52.364295959472656" fixed="false" dockLatitude="-26.604826581835617" dockLongitude="153.08902708021023" dockHeading="232.20669555664063" />
+    <dock id="17" latitude="-26.60463683620479" longitude="153.08854481149189" elevation="-0.0013019293546676636" heading="52.364147186279297" fixed="false" dockLatitude="-26.604497387590985" dockLongitude="153.08874666892828" dockHeading="232.50357055664063" />
+    <dock id="18" latitude="-26.604376474189149" longitude="153.08820191465122" elevation="-0.00086117628961801529" heading="52.363990783691406" fixed="false" dockLatitude="-26.604208654951051" dockLongitude="153.08844713445069" dockHeading="231.70323181152344" />
+  </docks>
+  <gui />
+  <static_aircrafts />
+</scenery>

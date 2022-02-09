@@ -1,0 +1,7 @@
+I
+850
+DRAPED_POLYGON
+LAYER_GROUP taxiways +1
+TEXTURE_NOWRAP 1-4.dds
+SCALE 25 25
+DECAL_LIB lib/g10/decals/park_grass_wet.dcl

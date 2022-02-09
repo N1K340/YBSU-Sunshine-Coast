@@ -1,0 +1,14 @@
+A
+850
+LINE_PAINT
+
+TEXTURE taxilines.png
+LOD 3000
+TEX_WIDTH 1024
+SCALE 24 5
+S_OFFSET 0	746	754	762
+
+MIRROR
+PREVIEW_RGB  0.8  0.8  0.8
+DECAL_LIB  lib/g10/decals/apt_markings2.dcl
+LAYER_GROUP markings +3
